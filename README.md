@@ -1,3 +1,11 @@
-PROJETO INTEGRADOR - UNIVESP
+# projeto-integrador-VIII-turma-001
+Projeto para Faculdade - Univesp
 
-VIII TURMA 0001
+Front-end
+Tecnologias usadas: <p>
+1. React <p>
+2. HTML5 <p>
+3. CSS <p>
+4. Jest <p>
+5. Git <p>
+6. Javascript
